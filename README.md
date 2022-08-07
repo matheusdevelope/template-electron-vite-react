@@ -1,1 +1,1 @@
-# A MultiToold app using Electron + Vite + React
+# Template using Electron + Vite + React
